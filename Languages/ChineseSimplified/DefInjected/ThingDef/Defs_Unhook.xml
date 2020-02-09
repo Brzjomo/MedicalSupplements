@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MSUnhook.label>Unhook</MSUnhook.label>
+  <MSUnhook.description>Unhook有助于减少成瘾类问题，但有概率形成精神依赖。每2天服用一次。</MSUnhook.description>
+  <MSUnhook.ingestible.ingestCommandString>服用 {0}</MSUnhook.ingestible.ingestCommandString>
+  <MSUnhook.ingestible.ingestReportString>正在服用 {0}.</MSUnhook.ingestible.ingestReportString>
+
+</LanguageData>

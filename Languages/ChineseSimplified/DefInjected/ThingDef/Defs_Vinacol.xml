@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MSVinacol.label>维纳科</MSVinacol.label>
+  <MSVinacol.description>维纳科，每4天服用一次的化疗药物。</MSVinacol.description>
+  <MSVinacol.ingestible.ingestCommandString>服用 {0}</MSVinacol.ingestible.ingestCommandString>
+  <MSVinacol.ingestible.ingestReportString>正在服用 {0}.</MSVinacol.ingestible.ingestReportString>
+
+</LanguageData>

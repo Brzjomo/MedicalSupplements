@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <MSTravelPill.label>旅行药</MSTravelPill.label>
+  <MSTravelPill.description>可以温和地改善体力，让你略微放松，但稍微更容易饥饿。效果持续5天。</MSTravelPill.description>
+  <MSTravelPill.ingestible.ingestCommandString>服用 {0}</MSTravelPill.ingestible.ingestCommandString>
+  <MSTravelPill.ingestible.ingestReportString>正在服用 {0}.</MSTravelPill.ingestible.ingestReportString>
+  
+</LanguageData>

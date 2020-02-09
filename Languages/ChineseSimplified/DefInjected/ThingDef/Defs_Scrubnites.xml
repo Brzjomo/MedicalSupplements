@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSScrubnites.label>Scrubnites针剂</MSScrubnites.label>
+  <MSScrubnites.description>Scrubnites是抗纳米机械针剂的改良版，专门用于治愈成瘾症。它的效果持续3天。与抗纳米机械针剂相比，治疗导致的疼痛程度有所降低。</MSScrubnites.description>
+  <MSScrubnites.ingestible.ingestCommandString>注射 {0}</MSScrubnites.ingestible.ingestCommandString>
+  <MSScrubnites.ingestible.ingestReportString>正在注射 {0}.</MSScrubnites.ingestible.ingestReportString>
+
+</LanguageData>
